@@ -5,4 +5,6 @@ collection: portfolio
 url: 'https://jaimeeekh.myportfolio.com/'
 ---
 
+An Adobe Portfolio that contains my works over the years, from personal projects to photo essays for The Paper Mixtape magazine.
 
+'https://jaimeeekh.myportfolio.com/'
